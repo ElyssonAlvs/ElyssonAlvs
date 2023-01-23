@@ -10,10 +10,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elysson-alves-533a29239/)
 ## Programming Languages :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyssonAlvs&layout=compact)
-## Technologies I use daily :
-<div style="display: inline_block">
-  <img align="center" alt="python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
-</div><br/>
 
 "Simple is better than complex"
 😃
