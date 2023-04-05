@@ -1,5 +1,5 @@
 # Hi 🧠 ! I'm Elysson Alves 
-#### ° 🔥 Aspiring Back-End Developer and Business Inteligence
+#### ° 🔥 Aspiring Data Science
 #### ° 🐍 Currently learning python
 #### ° 📚 Student of Systems Informating
 #### ° 👀 Looking for an internship in the field of technology
