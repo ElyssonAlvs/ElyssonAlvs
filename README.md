@@ -2,7 +2,6 @@
 #### ° 🔥 Aspiring Analyst of data
 #### ° 🐍 Currently learning python
 #### ° 📚 Student of Systems Informating
-#### ° 👀 Looking for an internship in the field of technology
 #### ° 👨‍💻 All of my projects are available at https://github.com/ElyssonAlvs?tab=repositories
 #### ° 📧 This is my email for contact elysson250102@gmail.com
 ## Contact with me : 
