@@ -1,5 +1,5 @@
 # Hi 🧠 ! I'm Elysson Alves 
-#### ° 🔥 Aspiring Analyst of data
+#### ° 🔥 Aspiring BI Analyst
 #### ° 🐍 Currently learning python
 #### ° 📚 Student of Systems Informating
 #### ° 👨‍💻 All of my projects are available at https://github.com/ElyssonAlvs?tab=repositories
