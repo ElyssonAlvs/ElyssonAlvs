@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  Graduando em <b>Sistemas de Informação</b> — <b>Universidade Federal do Ceará (UFC)</b>
+  Graduado em <b>Sistemas de Informação</b> — <b>Universidade Federal do Ceará (UFC)</b>
 </p>
 
 <!-- Contatos em Linha -->
