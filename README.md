@@ -1,38 +1,52 @@
-# Olá 👋! Eu sou Elysson Alves
+<div align="center">
 
-💻 Desenvolvedor Backend com foco em Python, FastAPI, Java e Spring Boot.  
-🤖 Atualmente direcionando minha carreira para Engenharia de IA, desenvolvendo aplicações com LLMs, RAG e Agentes de IA.  
-🎓 Graduando em Sistemas de Informação pela Universidade Federal do Ceará (UFC).  
-👨‍💻 Confira meus projetos [aqui](https://github.com/ElyssonAlvs?tab=repositories).  
-📧 Entre em contato: **elyssontech@gmail.com**.
+<!-- Header Ondulado Compacto (Nome em Branco) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0969da&height=150&section=header&text=Elysson%20Alves&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%" />
 
-🌱 **Atualmente trabalhando com:**
+<!-- Typer Dinâmico -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Desenvolvedor+Backend+%E2%80%A2+Python+%26+FastAPI;Java+%26+Spring+Boot+%E2%80%A2+PostgreSQL+%26+Docker;Backend+Integrado+a+LLMs+e+Agentes+de+IA" alt="Typing SVG" />
+</a>
 
-- Desenvolvimento Backend utilizando Python, FastAPI, Java e Spring Boot.
-- Agentes de IA, RAG e aplicações baseadas em LLMs.
-- Arquitetura de Software e automação com n8n.
-
-🎯 **Foco atual:**
-
-- Engenharia de IA e Sistemas Multiagentes.
-- Desenvolvimento de aplicações inteligentes utilizando IA e Backend.
-- Construção de projetos open source para consolidar conhecimentos e fortalecer o portfólio.
-
-## 🛠️ Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,sqlite,docker,git,github,linux,vscode" />
+<p align="center">
+  Graduando em <b>Sistemas de Informação</b> — <b>Universidade Federal do Ceará (UFC)</b>
 </p>
 
-**Backend:** FastAPI • Spring Boot • SQLAlchemy • Alembic • REST APIs
+<!-- Contatos em Linha -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/elysson-alves-533a29239/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:elyssontech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ElyssonAlvs?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-**IA:** LLMs • RAG • Ollama • Agentes de IA • n8n
+</div>
 
-## 📫 Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elysson-alves-533a29239/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elysson_alvs/)
+### 👨‍💻 Sobre mim
 
-```python
-"Simple is better than complex."
-```
+Desenvolvedor Backend com foco na construção de **APIs RESTful escaláveis, arquitetura limpa e modelagem de dados relacionais** utilizando **Python (FastAPI)** e **Java (Spring Boot)**. 
+
+Meu diferencial de mercado é conectar o backend à **Inteligência Artificial aplicada**: desenvolvo serviços que integram LLMs, pipelines RAG e agentes autônomos diretamente aos sistemas e bancos de dados da aplicação.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,postgres,sqlite,docker,linux" />
+</div>
+
+<br/>
+
+* **Backend:** Python, FastAPI, Java, Spring Boot, SQLAlchemy, REST APIs
+* **Banco de Dados & DevOps:** PostgreSQL, SQLite, Docker, Linux, Git
+* **Inteligência Artificial:** LLMs, Tool Calling, Pipelines RAG, Agentes Autônomos, n8n
